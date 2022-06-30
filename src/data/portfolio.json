@@ -1,0 +1,47 @@
+
+{
+    "portfolio": [
+        {
+            "cover": "https://www.computerhope.com/jargon/s/search-icon.gif",
+            "title": "Search Engine",
+            "description": "This is fully recreated google clon search engine based on google search API",
+            "url": "https://goggle-clon-4ku4ew9qy-privatechpok.vercel.app/search",
+            "code": "https://github.com/Andrey-Sazanov/GOGGLE--CLON"
+        },
+        {
+            "cover": "https://www.geckoboard.com/blog/content/images/2021/09/example-shopify-google-analytics-dashboard.png",
+            "title": "Dashboard & E-Commerce",
+            "description": "This is a dashboard with a bunch of functions that are usefull for ecommerce",
+            "url": "https://dashboard-five-pied.vercel.app/",
+            "code": "https://github.com/Andrey-Sazanov/Dashboard"
+        },
+        {
+            "cover": "https://camo.githubusercontent.com/366e44bda8cd8313fa3043f9ad8c50a205696527268fb410e22db006a917afa9/68747470733a2f2f70726f6a656374732e776f6a74656b6d616a2e706c2f72656163742d63616c656e6461722f72656163742d63616c656e6461722e6a7067",
+            "title": "Calendar",
+            "description": "A calendar with usage of local storage to keep your events saved",
+            "url": "https://calendar-seven-bice.vercel.app/",
+            "code": "https://github.com/Andrey-Sazanov/calendar"
+        },
+        {
+            "cover": "https://www.countryfaq.com/wp-content/uploads/2020/11/list-of-countries-and-their-flags-1400x780.png",
+            "title": "List of countries",
+            "description": "A list of countries with API   ",
+            "url": "https://list-of-countries-ecru.vercel.app/",
+            "code": "https://github.com/Andrey-Sazanov/list"
+        },
+        {
+            "cover":"https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/0x0.jpg?format=jpg&width=1200",
+            "title":"To do list with Django and react",
+            "description":"By creating an API for this app we have access to database and tasks  ",
+            "url":"https://react-django-to-do-list.herokuapp.com/",
+            "code": "https://github.com/Andrey-Sazanov/Django-React-To-Do-list"
+        },
+        {
+            "cover":"https://www.revechat.com/wp-content/uploads/2020/11/Live-chat-support-1280x720.jpg ",
+            "title":"Online chat App ",
+            "description":" An online chat app with Django",
+            "url":"https://django-online-chat1.herokuapp.com/",
+            "code": "https://github.com/Andrey-Sazanov/Django-Online-Chat"
+        }        
+    ]
+}
