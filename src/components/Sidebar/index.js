@@ -1,5 +1,5 @@
 import './index.scss'
-import {Link, NavLink} from 'react-router-dom'
+import {NavLink} from 'react-router-dom'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faHome,faUser,faEnvelope,faSuitcase} from '@fortawesome/free-solid-svg-icons'
 import {faLinkedin,faGithub} from '@fortawesome/free-brands-svg-icons'

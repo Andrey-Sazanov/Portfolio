@@ -8,7 +8,7 @@
       max-height: 90%;
       
     }
-  
+    
     h1 {
       color: #fff;
       font-size: 56px;
@@ -77,6 +77,32 @@
       &:hover {
         background: #ffd700;
         color: #333;
+      }
+    }
+    #logo{
+      transform: translate(1200px,-10px);
+      height: 85%;
+      top: 0px;
+      animation:  show 2s linear;
+    }
+    @keyframes show {
+      0%{
+        top: -900px;
+      }
+      25%{
+        top: -675px;
+        transform: rotateZ(-270deg);
+      }
+      50%{
+        top: -450px;
+        transform: rotateZ(-180deg);
+      }
+      75%{
+        top: -225px;
+        transform: rotateZ(-90deg);
+      }
+      100%{
+        top: 0px;
       }
     }
   }
