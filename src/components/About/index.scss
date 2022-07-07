@@ -77,5 +77,14 @@
     }
     83% {
       transform: rotateX(90deg);
+    } 
+  }
+  @media only screen  and (max-width:500px){
+    .text-zone{
+      margin-left: 35px;
+    }
+    .stage-cube-cont{
+      transform: translateY(170px);
+      z-index: -1;
     }
   }
