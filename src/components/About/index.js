@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import {faCss3,faGit,faHtml5,faJsSquare,faReact,faPython,} from '@fortawesome/free-brands-svg-icons'
+import {faCss3,faHtml5,faJsSquare,faReact,faPython,faNodeJs} from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -53,10 +53,10 @@ const About = () => {
               <FontAwesomeIcon icon={faHtml5} color="#F06529" />
             </div>
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+              <FontAwesomeIcon icon={faNodeJs} color="#28A4D9" />
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faGit} color="EC4D28" />
+              <FontAwesomeIcon icon={faCss3} color="EC4D28" />
             </div>
             <div className="face5">
               <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
