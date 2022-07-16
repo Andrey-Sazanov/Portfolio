@@ -9,6 +9,13 @@
             "code": "https://github.com/Andrey-Sazanov/GOGGLE--CLON"
         },
         {
+            "cover":"https://vn-nest.tech/wp-content/uploads/2021/06/ecommerce.png",
+            "title":"E-Commerce App  ",
+            "description":"E-Commerce App with Django ",
+            "url":"https://ecommerce-django-python123.herokuapp.com/",
+            "code": "https://github.com/Andrey-Sazanov/E-Commerce"
+        }, 
+        {
             "cover": "https://www.geckoboard.com/blog/content/images/2021/09/example-shopify-google-analytics-dashboard.png",
             "title": "Dashboard & E-Commerce",
             "description": "This is a dashboard with a bunch of functions that are usefull for ecommerce",
@@ -42,6 +49,6 @@
             "description":" An online chat app with Django",
             "url":"https://django-online-chat1.herokuapp.com/",
             "code": "https://github.com/Andrey-Sazanov/Django-Online-Chat"
-        }        
+        }       
     ]
 }
