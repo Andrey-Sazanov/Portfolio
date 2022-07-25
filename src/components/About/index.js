@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import {faCss3,faGit,faHtml5,faJsSquare,faReact,faPython,} from '@fortawesome/free-brands-svg-icons'
+import {faCss3,faHtml5,faJsSquare,faReact,faPython,faNodeJs} from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -39,8 +39,11 @@ const About = () => {
           </h1>
           <p>
             I finished 3 different courses about web developing.The first one was FrontendSimplified, The second one was from company named "Brainnest". And the last one was from Udemy about REACT and TypeScript. After that i was freelancing for couple of years just to gain some experience and to understand what people want to see on their sites.Also I took a role of a sowtware developer in Israeli startup called SPACE-INDEX.
-
             There I used Python Language for backend
+          </p>
+          <h1>Commercial Experience</h1>
+          <p>
+          In April 2021, I was hired by Personio, where I worked as a front-end developer, I worked there for almost a year. I left my job because of my studies 
           </p>
         </div>
 
@@ -53,10 +56,10 @@ const About = () => {
               <FontAwesomeIcon icon={faHtml5} color="#F06529" />
             </div>
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+              <FontAwesomeIcon icon={faNodeJs} color="#28A4D9" />
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faGit} color="EC4D28" />
+              <FontAwesomeIcon icon={faCss3} color="EC4D28" />
             </div>
             <div className="face5">
               <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />

@@ -82,6 +82,7 @@
     #logo{
       transform: translate(1200px,-10px);
       height: 85%;
+      position: absolute;
       top: 0px;
       animation:  show 2s linear;
     }
@@ -103,6 +104,17 @@
       }
       100%{
         top: 0px;
+      }
+    }
+    @media only screen  and (max-width:500px){
+      .text-zone{
+        margin-left: 55px;
+      }
+      #logo{
+        transform: translate(220px,100px);
+        z-index: -1;
+        width: 55%;
+        height: 55%;
       }
     }
   }

@@ -110,4 +110,18 @@
             background: transparent;
         }
     }
+    @media only screen  and (max-width:500px){
+       .images-container{
+            width: 350%;
+       }
+       .images-container{
+        display: block;
+       }
+       .images-container p{
+        margin-right: 10px ;
+       }
+       .images-container h4{
+        margin-right: 10px ;
+       }
+    }
 }
