@@ -44,13 +44,6 @@
             "code": "https://github.com/Andrey-Sazanov/list"
         },
         {
-            "cover":"https://imageio.forbes.com/specials-images/dam/imageserve/1092571024/0x0.jpg?format=jpg&width=1200",
-            "title":"To do list with Django and react",
-            "description":"By creating an API for this app we have access to database and tasks  ",
-            "url":"https://react-django-to-do-list.herokuapp.com/",
-            "code": "https://github.com/Andrey-Sazanov/Django-React-To-Do-list"
-        },
-        {
             "cover":"https://www.revechat.com/wp-content/uploads/2020/11/Live-chat-support-1280x720.jpg ",
             "title":"Online chat App ",
             "description":" An online chat app with Django",
