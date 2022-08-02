@@ -49,6 +49,13 @@
             "description":" An online chat app with Django",
             "url":"https://django-online-chat1.herokuapp.com/",
             "code": "https://github.com/Andrey-Sazanov/Django-Online-Chat"
+        },
+        {
+            "cover":"https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/b9/76/d3b97619-f61d-1d6d-7bea-81fbe12fc8ea/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+            "title":"Weather App ",
+            "description":"Weather App  with django and api",
+            "url":"https://weather-app-heroku-django.herokuapp.com/",
+            "code": "https://github.com/Andrey-Sazanov/Weather-App"
         }       
     ]
 }
