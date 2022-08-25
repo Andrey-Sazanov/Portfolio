@@ -41,10 +41,7 @@ const About = () => {
             I finished 3 different courses about web developing.The first one was FrontendSimplified, The second one was from company named "Brainnest". And the last one was from Udemy about REACT and TypeScript. After that i was freelancing for couple of years just to gain some experience and to understand what people want to see on their sites.Also I took a role of a sowtware developer in Israeli startup called SPACE-INDEX.
             There I used Python Language for backend
           </p>
-          <h1>Commercial Experience</h1>
-          <p>
-          In April 2021, I was hired by Personio, where I worked as a front-end developer, I worked there for almost a year. I left my job because of my studies 
-          </p>
+          
         </div>
 
         <div className="stage-cube-cont">
