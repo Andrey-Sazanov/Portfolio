@@ -38,9 +38,11 @@ const About = () => {
             Experience
           </h1>
           <p>
-            I finished 3 different courses about web developing.The first one was FrontendSimplified, The second one was from company named "Brainnest". And the last one was from Udemy about REACT and TypeScript. After that i was freelancing for couple of years just to gain some experience and to understand what people want to see on their sites.Also I took a role of a sowtware developer in Israeli startup called SPACE-INDEX.
-            There I used Python Language for backend
-          </p>
+              Kayak – Junior Frontend Developer 
+                June  2022 – January 2023
+              As a junior front end developer, I worked on an existing web application with a team of experienced developers. My role was to improve the UX design and functionality of the website, especially the flight search feature. I applied my knowledge of traveling websites to make the website more user-friendly and intuitive. This position helped me enhance my coding skills and learn from my colleagues.
+
+            </p>
           
         </div>
 
